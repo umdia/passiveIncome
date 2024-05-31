@@ -16,7 +16,7 @@ Pawns is a similar service that also lets you earn money by sharing your interne
 
 [Sign up for Pawns](https://pawns.app/?r=2977562)
 
-![Pawns](https://pawns.app/images/pawns-og.jpg)
+![Pawns](https://cdn.pawns.app/images/b/160.jpg)
 
 ### 3. Repocket
 Repocket offers a way to earn money while you browse the internet.
