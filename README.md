@@ -7,11 +7,9 @@ Welcome to the repository where you can find links to amazing services that allo
 ### 1. Honeygain
 Honeygain allows you to earn money by sharing your internet connection. It's a great way to earn passive income. Register and start with $5 in your account. 
 
-#### For Default network sharing:
-You will earn 2 credits for 10MB of traffic that goes through you. So for 10GB, you’ll earn 2USD
+#### For Default network sharing: You will earn 2 credits for 10MB of traffic that goes through you. So for 10GB, you’ll earn 2USD
 
-#### For Content Delivery (if available in your region):
-You will earn 6 credits for every hour Content Delivery is Active and running (not ‘In Queue’).
+#### For Content Delivery (if available in your region): You will earn 6 credits for every hour Content Delivery is Active and running (not ‘In Queue’).
 
 [Sign up for Honeygain](https://r.honeygain.me/UM4049ED1D)
 
