@@ -7,7 +7,7 @@ Welcome to the repository where you can find links to amazing services that allo
 ### 1. Honeygain
 Honeygain allows you to earn money by sharing your internet connection. It's a great way to earn passive income.
 
-[Sign up for Honeygain](YOUR_HONEYGAIN_LINK)
+[Sign up for Honeygain](https://r.honeygain.me/UM4049ED1D)
 
 ![Honeygain](https://www.honeygain.com/images/ogimage.jpg)
 
