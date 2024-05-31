@@ -14,21 +14,21 @@ Honeygain allows you to earn money by sharing your internet connection. It's a g
 ### 2. Pawns (IPRoyal Pawns)
 Pawns is a similar service that also lets you earn money by sharing your internet connection.
 
-[Sign up for Pawns](YOUR_PAWNS_LINK)
+[Sign up for Pawns](https://pawns.app/?r=2977562)
 
 ![Pawns](https://pawns.app/images/pawns-og.jpg)
 
 ### 3. Repocket
 Repocket offers a way to earn money while you browse the internet.
 
-[Sign up for Repocket](YOUR_REPOCKET_LINK)
+[Sign up for Repocket](https://link.repocket.com/vD5j)
 
 ![Repocket](https://repocket.co/images/og-image.jpg)
 
 ### 4. Traffmonetizer
 Traffmonetizer is another excellent option to monetize your internet connection.
 
-[Sign up for Traffmonetizer](YOUR_TRAFFMONETIZER_LINK)
+[Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)
 
 ![Traffmonetizer](https://traffmonetizer.com/images/og-image.jpg)
 
