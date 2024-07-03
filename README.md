@@ -13,9 +13,7 @@ Minimun payout amount is 2€ through PayPal or bank transfer
 [Sign up for Ebesucher](https://www.ebesucher.com/?ref=bigmaddog)
 
 ![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)
-
-
-(`___`)
+___
 ### 2. Honeygain
 Honeygain allows you to earn money by sharing your internet connection. It's a great way to earn passive income. Register and start with $5 in your account. 
 
@@ -24,21 +22,19 @@ Honeygain allows you to earn money by sharing your internet connection. It's a g
 #### For Content Delivery (if available in your region): You will earn 6 credits for every hour Content Delivery is Active and running (not ‘In Queue’).
 
 [Sign up for Honeygain](https://r.honeygain.me/UM4049ED1D)
-
-
+___
 ### 3. Pawns (IPRoyal Pawns)
 Pawns is a similar service that also lets you earn money by sharing your internet connection. Register and get $3 in your account.
 
 [Sign up for Pawns](https://pawns.app/?r=2977562)
 
 ![Pawns](https://cdn.pawns.app/images/b/160.jpg)
-
+___
 ### 4. Repocket
 Repocket offers a way to earn money while you browse the internet. Register and start with $5 in your account. 
 
 [Sign up for Repocket](https://link.repocket.com/vD5j)
-
-
+___
 ### 5. Traffmonetizer
 Traffmonetizer is another excellent option to monetize your internet connection.
 
