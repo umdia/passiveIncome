@@ -36,3 +36,12 @@ Traffmonetizer is another excellent option to monetize your internet connection.
 
 
 Thank you for visiting and happy earnings! 🚀
+
+### 5. Ebesucher
+## Earn money or advertise your website!
+Visit new websites or get targeted website traffic
+## Get Paid to surf 
+Minimun payout amount is 2€ through PayPal or bank transfer
+
+[Sign up for Ebesucher](https://www.ebesucher.com/?ref=bigmaddog)
+![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)
