@@ -5,9 +5,9 @@ Welcome to the repository where you can find links to amazing services that allo
 ## Monetization Services
 
 ### 1. Ebesucher
-## Earn money or advertise your website!
+#### Earn money or advertise your website!
 Visit new websites or get targeted website traffic
-## Get Paid to surf 
+#### Get Paid to surf 
 Minimun payout amount is 2€ through PayPal or bank transfer
 
 [Sign up for Ebesucher](https://www.ebesucher.com/?ref=bigmaddog)
