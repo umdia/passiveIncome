@@ -4,7 +4,18 @@ Welcome to the repository where you can find links to amazing services that allo
 
 ## Monetization Services
 
-### 1. Honeygain
+### 1. Ebesucher
+## Earn money or advertise your website!
+Visit new websites or get targeted website traffic
+## Get Paid to surf 
+Minimun payout amount is 2€ through PayPal or bank transfer
+
+[Sign up for Ebesucher](https://www.ebesucher.com/?ref=bigmaddog)
+
+![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)
+
+
+### 2. Honeygain
 Honeygain allows you to earn money by sharing your internet connection. It's a great way to earn passive income. Register and start with $5 in your account. 
 
 #### For Default network sharing: You will earn 2 credits for 10MB of traffic that goes through you. So for 10GB, you’ll earn 2USD
@@ -14,20 +25,20 @@ Honeygain allows you to earn money by sharing your internet connection. It's a g
 [Sign up for Honeygain](https://r.honeygain.me/UM4049ED1D)
 
 
-### 2. Pawns (IPRoyal Pawns)
+### 3. Pawns (IPRoyal Pawns)
 Pawns is a similar service that also lets you earn money by sharing your internet connection. Register and get $3 in your account.
 
 [Sign up for Pawns](https://pawns.app/?r=2977562)
 
 ![Pawns](https://cdn.pawns.app/images/b/160.jpg)
 
-### 3. Repocket
+### 4. Repocket
 Repocket offers a way to earn money while you browse the internet. Register and start with $5 in your account. 
 
 [Sign up for Repocket](https://link.repocket.com/vD5j)
 
 
-### 4. Traffmonetizer
+### 5. Traffmonetizer
 Traffmonetizer is another excellent option to monetize your internet connection.
 
 [Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)
@@ -37,11 +48,4 @@ Traffmonetizer is another excellent option to monetize your internet connection.
 
 Thank you for visiting and happy earnings! 🚀
 
-### 5. Ebesucher
-## Earn money or advertise your website!
-Visit new websites or get targeted website traffic
-## Get Paid to surf 
-Minimun payout amount is 2€ through PayPal or bank transfer
 
-[Sign up for Ebesucher](https://www.ebesucher.com/?ref=bigmaddog)
-![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)
