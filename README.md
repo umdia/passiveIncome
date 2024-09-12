@@ -5,14 +5,10 @@ Welcome to the repository where you can find links to amazing services that allo
 ## Monetization Services
 
 ### 1. Ebesucher
-#### Earn money or advertise your website!
-Visit new websites or get targeted website traffic
-#### Get Paid to surf 
-Minimun payout amount is 2€ through PayPal or bank transfer
 
-[Sign up for Ebesucher](https://www.ebesucher.com/?ref=umdia)
+|Earn money or advertise your website!<br>Visit new websites or get targeted website traffic<br>Get Paid to surf <br>Minimun payout amount is 2€ through PayPal or bank transfer<br><br>[Sign up for Ebesucher](https://www.ebesucher.com/?ref=umdia)|![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)|
+|:-|-|
 
-![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)
 ___
 ### 2. Honeygain
 Honeygain allows you to earn money by sharing your internet connection. It's a great way to earn passive income. Register and start with $5 in your account. 
@@ -24,11 +20,11 @@ Honeygain allows you to earn money by sharing your internet connection. It's a g
 [Sign up for Honeygain](https://r.honeygain.me/UM4049ED1D)
 ___
 ### 3. Pawns (IPRoyal Pawns)
-Pawns is a similar service that also lets you earn money by sharing your internet connection. Register and get $3 in your account.
+|Pawns is a similar service that also lets you earn money by sharing your internet connection. Register and get $3 in your account. <br> <br> [Sign up for Pawns](https://pawns.app/?r=2977562)|<img src="https://cdn.pawns.app/images/b/160.jpg" alt="Pawns" style="width: 50%;">|
+|-|-|
 
-[Sign up for Pawns](https://pawns.app/?r=2977562)
 
-![Pawns](https://cdn.pawns.app/images/b/160.jpg)
+
 ___
 ### 4. Repocket
 Repocket offers a way to earn money while you browse the internet. Register and start with $5 in your account. 
@@ -36,12 +32,11 @@ Repocket offers a way to earn money while you browse the internet. Register and 
 [Sign up for Repocket](https://link.repocket.com/vD5j)
 ___
 ### 5. Traffmonetizer
-Traffmonetizer is another excellent option to monetize your internet connection.
-Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android, MAC, Docker 
+|Traffmonetizer is another excellent option to monetize your internet connection.
+Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android, MAC, Docker  <br> <br> [Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)| <img src="https://app.traffmonetizer.com/assets/images/referral-banner.png" alt="Traffmonetizer" style="width: 50%;">|
+|-|-|
 
-[Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)
 
-![Traffmonetizer](https://app.traffmonetizer.com/assets/images/referral-banner.png|width=10)
 
 ___
 ### 6. PacketStream
