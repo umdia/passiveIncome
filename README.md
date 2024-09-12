@@ -41,7 +41,7 @@ Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android
 
 [Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)
 
-![Traffmonetizer](https://app.traffmonetizer.com/assets/images/referral-banner.png)
+![Traffmonetizer](https://app.traffmonetizer.com/assets/images/referral-banner.png =250x250)
 
 ___
 ### 6. PacketStream
