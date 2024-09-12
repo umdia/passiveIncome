@@ -44,7 +44,7 @@ Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android
 ![Traffmonetizer](https://app.traffmonetizer.com/assets/images/referral-banner.png)
 
 ___
-### 5. PacketStream
+### 6. PacketStream
 PacketStream is another excellent option to monetize your internet connection and get paid for sharing your unused internet bandwidth with our network. It pays $0.10 per GB of data shared
 Packeters are paid through PayPal. The minimum cashout amount is $5
 
