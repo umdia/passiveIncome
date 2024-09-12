@@ -37,11 +37,20 @@ Repocket offers a way to earn money while you browse the internet. Register and 
 ___
 ### 5. Traffmonetizer
 Traffmonetizer is another excellent option to monetize your internet connection.
+Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android, MAC, Docker 
 
 [Sign up for Traffmonetizer](https://traffmonetizer.com/?aff=1594333)
 
 ![Traffmonetizer](https://app.traffmonetizer.com/assets/images/referral-banner.png)
 
+___
+### 5. PacketStream
+PacketStream is another excellent option to monetize your internet connection and get paid for sharing your unused internet bandwidth with our network. It pays $0.10 per GB of data shared
+Packeters are paid through PayPal. The minimum cashout amount is $5
+
+Install the app on your device Windows, MAC, Linux(Docker) 
+
+[Sign up for PacketStream](https://packetstream.io/?psr=67ou)
 
 Thank you for visiting and happy earnings! 🚀
 
