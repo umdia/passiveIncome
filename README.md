@@ -1,4 +1,4 @@
-# The Best Traffic Monetization Links Promotion
+# My Best Traffic Monetization Links Promotion
 
 Welcome to the repository where you can find links to amazing services that allow you to monetize your internet traffic! 🌐💰
 
