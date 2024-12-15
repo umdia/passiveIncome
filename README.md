@@ -6,7 +6,7 @@ Welcome to the repository where you can find links to amazing services that allo
 
 ### 1. Ebesucher
 
-|Earn money or advertise your website!<br>Visit new websites or get targeted website traffic<br>Get Paid to surf <br>Minimun payout amount is 2€ through PayPal or bank transfer<br><br>[Sign up for Ebesucher](https://www.ebesucher.com/?ref=umdia)|![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)|
+|Earn money or advertise your website!<br>Visit new websites or get targeted website traffic<br>Auto-surfbar<br>Get Paid to surf <br>Minimun payout amount is 2€ through PayPal or bank transfer<br><br>[Sign up for Ebesucher](https://www.ebesucher.com/?ref=umdia)|![ebesucher](https://banner.ebesucher.de/en/fullsize1.gif)|
 |:-|-|
 
 ___
@@ -49,4 +49,9 @@ Install the app on your device Windows, MAC, Linux(Docker)
 
 Thank you for visiting and happy earnings! 🚀
 
+___
+### 7. Adnade
+Earn money by Auto-Surfbar, PTP Link, Forced Offers, Rallye
+#### The minimum cashout amount is 2€
 
+[Sign up for Adnane] (https://adnade.net/?ref=10buck)
