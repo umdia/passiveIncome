@@ -2,6 +2,16 @@
 
 Welcome to the repository where you can find links to amazing services that allow you to monetize your internet traffic! 🌐💰
 
+|Site|Minimun Payout|
+|-|-|
+|Ebesucher|2€|
+|Honeygain|$20|
+|Pawns|$5|
+|Repocket|$10|
+|Traffmonetizer|$10|
+|PacketStream|$5|
+|Adnade|2€|
+
 ## Monetization Services
 
 ### 1. Ebesucher
