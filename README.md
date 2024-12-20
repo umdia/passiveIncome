@@ -7,7 +7,7 @@ Welcome to the repository where you can find links to amazing services that allo
 |Ebesucher|2€|
 |Honeygain|$20|
 |Pawns|$5|
-|Repocket|$10|
+|Repocket|$5|
 |Traffmonetizer|$10|
 |PacketStream|$5|
 |Adnade|2€|
