@@ -2,15 +2,16 @@
 
 Welcome to the repository where you can find links to amazing services that allow you to monetize your internet traffic! 🌐💰
 
-|Site|Minimun Payout|
-|-|-|
-|Ebesucher|2€|
-|Honeygain|$20|
-|Pawns|$5|
-|Repocket|$5|
-|Traffmonetizer|$10|
-|PacketStream|$5|
-|Adnade|2€|
+|Site|Minimun Payout||Site|Minimun Payout
+|-|-|-|-|-|
+|[Ebesucher](https://www.ebesucher.com/?ref=umdia)|2€||[Traffmonetizer](https://traffmonetizer.com/?aff=1594333)|$10|
+|[Honeygain](https://r.honeygain.me/UM4049ED1D)|$20||[PacketStream](https://packetstream.io/?psr=67ou)|$5|
+|[Pawns](https://pawns.app/?r=2977562)|$5||[Adnade](https://adnade.net/?ref=10buck)|2€|
+|[Repocket](https://link.repocket.com/vD5j)|$5||[EarnFM](https://earn.fm/ref/QUERTBZP)|$15|
+
+
+
+
 
 ## Monetization Services
 
@@ -65,3 +66,11 @@ Earn money by Auto-Surfbar, PTP Link, Forced Offers, Rallye
 #### The minimum cashout amount is 2€
 
 [Sign up for Adnane] (https://adnade.net/?ref=10buck)
+
+
+___
+### 8. EarnFM
+Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android, MAC, Docker 
+Usually payouts are processed starting at $15
+Register and start with $5 in your account. 
+[Sign up for EarnFM](https://earn.fm/ref/QUERTBZP)
