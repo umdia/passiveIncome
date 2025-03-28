@@ -8,10 +8,7 @@ Welcome to the repository where you can find links to amazing services that allo
 |[Honeygain](https://r.honeygain.me/UM4049ED1D)|$20||[PacketStream](https://packetstream.io/?psr=67ou)|$5|
 |[Pawns](https://pawns.app/?r=2977562)|$5||[Adnade](https://adnade.net/?ref=10buck)|2€|
 |[Repocket](https://link.repocket.com/vD5j)|$5||[EarnFM](https://earn.fm/ref/QUERTBZP)|$15|
-
-
-
-
+|[packetshare](https://www.packetshare.io/?code=46EFCF82B5F3A785)|$10||||
 
 ## Monetization Services
 
@@ -74,3 +71,27 @@ Install the app on your device -  (Computer, mobile, or Ipad) - Windows, Android
 Usually payouts are processed starting at $15
 Register and start with $5 in your account. 
 [Sign up for EarnFM](https://earn.fm/ref/QUERTBZP)
+
+___
+### 9. Earn Money by Sharing Your Internet with PacketShare.io!
+
+Looking for an easy way to make extra cash? Join **PacketShare.io** and start earning today! Sign up now and get **$5 as a welcome bonus!**
+#### The minimum cashout amount is $10 (PayPal or Wire.)
+
+
+## 💰 How Much Can You Earn?
+For every **1GB of data** you share, you get:  
+✅ **$0.20 per GB** (Android & Windows users with ISP IPs)  
+✅ **$0.10 per GB** (Linux users with ISP IPs)  
+✅ **$0.05 per GB** (Hosting-type IPs)  
+
+Simply install the app, share your unused bandwidth, and watch your earnings grow!
+
+## 🚀 Why Choose PacketShare.io?
+✔ **Passive income** – Earn effortlessly while your device is online  
+✔ **Secure & reliable** – Your data is safe with us  
+✔ **Flexible payouts** – Withdraw your earnings anytime  
+
+Don't miss out! **Sign up today and claim your free $5 bonus!**  
+
+🔗 **[Join now at PacketShare.io]([https://packetshare.io](https://www.packetshare.io/?code=46EFCF82B5F3A785))**
