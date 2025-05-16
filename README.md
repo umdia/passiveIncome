@@ -8,7 +8,7 @@ Welcome to the repository where you can find links to amazing services that allo
 |[Honeygain](https://r.honeygain.me/UM4049ED1D)|$20||[PacketStream](https://packetstream.io/?psr=67ou)|$5|
 |[Pawns](https://pawns.app/?r=2977562)|$5||[Adnade](https://adnade.net/?ref=10buck)|2€|
 |[Repocket](https://link.repocket.com/vD5j)|$5||[EarnFM](https://earn.fm/ref/QUERTBZP)|$15|
-|[packetshare](https://www.packetshare.io/?code=46EFCF82B5F3A785)|$10||||
+|[packetshare](https://www.packetshare.io/?code=46EFCF82B5F3A785)|$10||[Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL)|5.0 MYST|
 
 ## Monetization Services
 
@@ -95,3 +95,20 @@ Simply install the app, share your unused bandwidth, and watch your earnings gro
 Don't miss out! **Sign up today and claim your free $5 bonus!**  
 
 🔗 **[Join now at PacketShare.io]([https://packetshare.io](https://www.packetshare.io/?code=46EFCF82B5F3A785))**
+
+___
+### 10. Earn crypto while you sleep with Mystnodes!
+
+💻 Got spare bandwidth?
+With MystNodes, you can earn crypto by running a decentralized node from home.
+It’s easy to set up, lightweight, and supports the future of internet privacy and decentralization.
+
+✅ No technical skills needed
+
+✅ Runs on Raspberry Pi, PCs, or VPS
+
+✅ Get paid in $MYST tokens
+
+Start today and be part of the new internet economy:
+
+👉 [Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL)
