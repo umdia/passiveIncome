@@ -32,12 +32,23 @@ ___
 |-|-|
 
 
-
 ___
-### 4. Repocket
-Repocket offers a way to earn money while you browse the internet. Register and start with $5 in your account. 
+### 4. Earn crypto while you sleep with Mystnodes!
 
-[Sign up for Repocket](https://link.repocket.com/vD5j)
+💻 Got spare bandwidth?
+With MystNodes, you can earn crypto by running a decentralized node from home.
+It’s easy to set up, lightweight, and supports the future of internet privacy and decentralization.
+
+✅ No technical skills needed
+
+✅ Runs on Raspberry Pi, PCs, or VPS
+
+✅ Get paid in $MYST tokens
+
+Start today and be part of the new internet economy:
+
+👉 [Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL)
+
 ___
 ### 5. Traffmonetizer
 |Traffmonetizer is another excellent option to monetize your internet connection.
@@ -96,19 +107,9 @@ Don't miss out! **Sign up today and claim your free $5 bonus!**
 
 🔗 **[Join now at PacketShare.io]([https://packetshare.io](https://www.packetshare.io/?code=46EFCF82B5F3A785))**
 
+
 ___
-### 10. Earn crypto while you sleep with Mystnodes!
+### 10. Repocket
+Repocket offers a way to earn money while you browse the internet. Register and start with $5 in your account. 
 
-💻 Got spare bandwidth?
-With MystNodes, you can earn crypto by running a decentralized node from home.
-It’s easy to set up, lightweight, and supports the future of internet privacy and decentralization.
-
-✅ No technical skills needed
-
-✅ Runs on Raspberry Pi, PCs, or VPS
-
-✅ Get paid in $MYST tokens
-
-Start today and be part of the new internet economy:
-
-👉 [Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL)
+[Sign up for Repocket](https://link.repocket.com/vD5j)
