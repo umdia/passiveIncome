@@ -15,7 +15,7 @@ I’ve personally tested dozens of traffic monetization platforms — here are t
 | 🧩 **[Pawns (IPRoyal)](https://pawns.app/?r=2977562)** | $5 | Bandwidth Sharing | [👉 Sign Up for Pawns](https://pawns.app/?r=2977562) |
 | 🪙 **[Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL)** | 5 MYST | Crypto Node / Bandwidth | [👉 Start Mystnodes](https://mystnodes.co/?referral_code=mAzf2h1rntvivAh4wbp3DyIoqdXcoiNo3CLOO7YL) |
 | 📡 **[PacketStream](https://packetstream.io/?psr=67ou)** | $5 | Bandwidth Sharing | [👉 Join PacketStream](https://packetstream.io/?psr=67ou) |
-| 🪞 **[Repocket](https://link.repocket.com/vD5j)** | $5 | Bandwidth Sharing | [👉 Sign Up for Repocket](https://link.repocket.com/vD5j) |
+| 🪞 **[Repocket](https://link.repocket.com/vD5j)** | $2 | Bandwidth Sharing | [👉 Sign Up for Repocket](https://link.repocket.com/vD5j) |
 | 🧠 **[EarnFM](https://earn.fm/ref/QUERTBZP)** | $15 | Bandwidth Sharing | [👉 Join EarnFM](https://earn.fm/ref/QUERTBZP) |
 | 🔄 **[Adnade](https://adnade.net/?ref=10buck)** | 2€ | Autosurf / PTP / Offers | [👉 Try Adnade](https://adnade.net/?ref=10buck) |
 | 📦 **[PacketShare.io](https://www.packetshare.io/?code=46EFCF82B5F3A785)** | $10 | Bandwidth Sharing | [👉 Join PacketShare.io](https://www.packetshare.io/?code=46EFCF82B5F3A785) |
@@ -105,7 +105,7 @@ A long-running bandwidth-sharing platform that pays $0.10 per GB.
 ### 🪞 7. Repocket
 Turn your idle internet connection into monthly cash — mobile friendly.
 
-- 💰 **Payout:** $5 (PayPal, Bitcoin, USDT)  
+- 💰 **Payout:** $2 (PayPal, Bitcoin, USDT)  
 - 💻 **Platforms:** Windows, macOS, Android, iOS  
 - ✅ **Pros:** Works globally, easy mobile setup  
 - ⚠️ **Cons:** Needs constant online uptime  
